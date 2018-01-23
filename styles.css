@@ -1,0 +1,27 @@
+.navbar-dark .navbar-brand {
+    color: #FBEC5D;
+}
+
+.jumbotron .img-fluid {
+  max-width: 300px;
+}
+
+.jumbotron {
+  background-image: url(http://iameviltebow.com/wp-content/uploads/2013/05/8MichiganStadium.Michigan.jpg);
+  background-size: cover;
+}
+
+h1.lead {
+  font-size: 30pt;
+  color: #FBEC5D;
+  font-weight: bold;
+}
+
+td {
+  font-size: 12pt;
+}
+
+.container-fluid h3 {
+  text-decoration: underline;
+  color: #00274C;
+}
